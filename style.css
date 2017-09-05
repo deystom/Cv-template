@@ -1,0 +1,57 @@
+body{
+    background-color:white;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+h1 {
+    color:black;
+    text-align:center; 
+}
+.personal_information {
+    background-color:lightskyblue;
+}
+
+h3 {
+    color:blue; 
+}
+
+.key_attributes{
+    background-color:palegreen;
+}
+
+.key_attributes > span {
+        color:red
+}
+
+.technical_attributes {
+    background-color:aqua
+}
+
+.technical_attributes > h3 {
+    color:blue;
+}
+
+.education {
+    background-color:brown;
+}
+
+.school {
+    text-align: center;
+}
+
+.referees {
+    color:blue;
+}\
+
+.name {
+    text-align:left;
+}
+
+
+
+
+
